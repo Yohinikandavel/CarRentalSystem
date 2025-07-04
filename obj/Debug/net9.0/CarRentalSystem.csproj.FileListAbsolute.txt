@@ -1,0 +1,5 @@
+D:\Hexaware\CarRentalSystem\CarRentalSystem\obj\Debug\net9.0\CarRentalSystem.csproj.AssemblyReference.cache
+D:\Hexaware\CarRentalSystem\CarRentalSystem\obj\Debug\net9.0\CarRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\CarRentalSystem\CarRentalSystem\obj\Debug\net9.0\CarRentalSystem.AssemblyInfoInputs.cache
+D:\Hexaware\CarRentalSystem\CarRentalSystem\obj\Debug\net9.0\CarRentalSystem.AssemblyInfo.cs
+D:\Hexaware\CarRentalSystem\CarRentalSystem\obj\Debug\net9.0\CarRentalSystem.csproj.CoreCompileInputs.cache
