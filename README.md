@@ -43,7 +43,7 @@ dotnet test
 
 ## 🖼️ **Sample Screenshot**
 Here is a screenshot of the console UI:
-![Car](images\car.png)
+![Car](images/car.png)
 
 ---
 
